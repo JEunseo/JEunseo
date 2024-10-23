@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ## 🛠 Tools
 ![VSCode](https://img.shields.io/badge/-VSCode-018EF5?style=flat-square&logo=vscode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![intellijidea](https://img.shields.io/badge/-intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
 
 
