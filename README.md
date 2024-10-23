@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 ### [Develop]
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
 ### [Operation]
