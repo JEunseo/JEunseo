@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🛠 Skills
+## 🛠 Skills & Tools
 
 ### [Develop]
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 🛠 Tools
+### [Tools]
 ![VSCode](https://img.shields.io/badge/-VSCode-018EF5?style=flat-square&logo=vscode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/-Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white)
