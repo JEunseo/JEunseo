@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=js&logoColor=white)
-![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=ts&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=ts&logoColor=white)
 
 ### [Operation]
 ![NCloud](https://img.shields.io/badge/-NCloud-03C75A?style=flat-square&logo=NCloud&logoColor=white)
