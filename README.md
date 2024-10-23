@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
 ### [Operation]
-![NCloud](https://img.shields.io/badge/-Naver-03C75A?style=flat-square&logo=NCloud&logoColor=white)
+![NCloud](https://img.shields.io/badge/-NCloud-03C75A?style=flat-square&logo=NCloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
