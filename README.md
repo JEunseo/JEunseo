@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### [Develop]
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
 ### [Operation]
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## 🛠 Tools
-![VSCode](https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=vscode&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-018EF5?style=flat-square&logo=vscode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 
