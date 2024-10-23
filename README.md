@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
 ## 🛠 Tools
-![VSCode](https://img.shields.io/badge/miricanvas-03C75A.svg?style=for-the-badge&logo=canvas&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-40AEF0.svg?style=for-the-badge&logo=vscode&logoColor=white)
 
 
 
